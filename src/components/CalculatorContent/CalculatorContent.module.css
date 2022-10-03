@@ -1,0 +1,29 @@
+.alertBlock {
+  text-transform: none;
+}
+
+.calculatorBody {
+  display: flex;
+  flex-flow: column;
+  gap: 20px;
+  padding: 20px;
+}
+.calculatorBody .section {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  width: 100%;
+}
+.calculatorBody .section .form {
+  width: 46%;
+}
+.calculatorBody .section .dateWrapper {
+  display: flex;
+  flex-flow: column;
+  width: 46%;
+}
+.calculatorBody .section .dateWrapper .helpText {
+  padding-left: 15px;
+}
+
+/*# sourceMappingURL=CalculatorContent.module.css.map */
