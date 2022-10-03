@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/insurance-react/static/css/main.5a0415cc.css",
+    "main.js": "/insurance-react/static/js/main.e4e6c2a0.js",
+    "index.html": "/insurance-react/index.html",
+    "main.5a0415cc.css.map": "/insurance-react/static/css/main.5a0415cc.css.map",
+    "main.e4e6c2a0.js.map": "/insurance-react/static/js/main.e4e6c2a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a0415cc.css",
+    "static/js/main.e4e6c2a0.js"
+  ]
+}
