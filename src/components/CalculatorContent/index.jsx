@@ -179,7 +179,6 @@ function CalculatorContent({
                             })}
                         </Select>
                     </FormControl>
-
                 </div>
                 <div className={s.section}>
                     <FormControl className={s.form}>
